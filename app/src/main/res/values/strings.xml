@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNewsAPI</string>
+    <string name="profile">profile</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="name">Muhammad Al Fikri</string>
+    <string name="username">Alfikri02</string>
+    <string name="img_news">Image News</string>
+    <string name="share">Share</string>
+</resources>
